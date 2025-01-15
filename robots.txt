@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /impressum.html
+Disallow: /datenschutz.html
+
+
+#Stand zwar nicht in den Design-Spezifikationen, aber lt. Modul 2-Video 12 benötigt man "eigentlich auf jeder Seite ein Impressum" :)
